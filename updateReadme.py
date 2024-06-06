@@ -11,7 +11,7 @@ videos = [f for f in os.listdir(videos_dir) if os.path.isfile(os.path.join(video
 chosen_video = random.choice(videos)
 
 # Формирование URL видео для отображения в README
-video_url = f'https://raw.githubusercontent.com/USERNAME/USERNAME/main/videos/{chosen_video}'
+video_url = f'https://raw.githubusercontent.com/GosteGrid/GosteGride/main/video/{chosen_video}'
 
 # Создание содержимого README.md
 readme_content = f"""

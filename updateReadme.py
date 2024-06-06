@@ -1,7 +1,7 @@
 import os
 
 # Путь к папке с гифками
-gif_folder = "path/to/gif/folder"
+gif_folder = "gif"
 
 # Список гифок в нужном порядке
 gif_list = [

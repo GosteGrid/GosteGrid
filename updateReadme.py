@@ -6,7 +6,8 @@ gif_folder = "gif"
 # Список гифок в нужном порядке
 gif_list = [
     "test.gif",
-    "test2.gif"
+    "test2.gif", 
+    "test3.gif",
 ]
 
 # Путь к файлу README

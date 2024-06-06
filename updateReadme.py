@@ -1,7 +1,7 @@
 import os
 import random
 
-lastGifFile = 'last_gif_file.txt'
+last_gif_file = 'last_gif_file.txt'
 
 # Получение списка видео файлов
 gifs = [

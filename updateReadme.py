@@ -1,11 +1,11 @@
-import os
 import random
 
-# Путь к папке с видео
-videos_dir = 'video/'
-
 # Получение списка видео файлов
-videos = [f for f in os.listdir(videos_dir) if os.path.isfile(os.path.join(videos_dir, f))]
+videos = [
+    "video/pinterestdownloader.com-1717659520.295921.mp4",
+    "video/pinterestdownloader.com-1717659547.902296.mp4",
+    "video/pinterestdownloader.com-1717659575.377558.mp4"
+]
 
 # Выбор случайного видео
 chosen_video = random.choice(videos)

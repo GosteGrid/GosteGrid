@@ -1,4 +1,7 @@
+import os
 import random
+
+lastGifFile = 'last_gif_file.txt'
 
 # Получение списка видео файлов
 gifs = [
@@ -6,9 +9,19 @@ gifs = [
     "gif/test2.gif"
 ]
 
-# Выбор случайного видео
-chosen_gif = random.choice(gifs)
+if os.path.exists(last_gif_file):
+    with open(last_gif_file, 'r') as file:
+        last_gif = file.read().strip()
+else:
+    last_gif = None
 
+# Выбор новой гифки, отличной от предыдущей
+chosen_gif = random.choice(gifs)
+while chosen_gif == last_gif and len(gifs) > 1:
+    chosen_gif = random.choice(gifs)
+
+with open(last_gif_file, 'w') as file:
+    file.write(chosen_gif)
 # Создание содержимого README.md
 readme_content = f"""
 # Привет!

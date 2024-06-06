@@ -16,4 +16,4 @@ jobs:
       - name: Install dependencies
         run: pip install requests # Если требуется
       - name: Update README
-        run: python update_readme.py
+        run: python updateReadme.py

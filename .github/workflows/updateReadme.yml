@@ -22,10 +22,6 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
-        git add README.md
-        git commit -m 'Update README with random video'
-        git push
+        python updateReadme.py
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

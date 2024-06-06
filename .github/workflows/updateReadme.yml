@@ -2,11 +2,7 @@ name: Update README with random video
 
 on:
   schedule:
-    - cron: '43 16 * * *'  # Запускать ежедневно в полночь
-  push:
-    branches:
-      - main
-  workflow_dispatch:  # Вручную запускать по необходимости
+    - cron: '53 13 * * *'  # Запускать ежедневно в полночь
 
 jobs:
   update-readme:

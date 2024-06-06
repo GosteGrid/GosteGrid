@@ -1,36 +1,26 @@
-import os
 import random
 
-last_gif_file = 'last_gif_file.txt'
-
-# Получение списка видео файлов
-gifs = [
-    "gif/test.gif", 
-    "gif/test2.gif"
+# Список гифок
+gif_list = [
+    "gif/test.gif",
+    "test2.gif"
 ]
 
-if os.path.exists(last_gif_file):
-    with open(last_gif_file, 'r') as file:
-        last_gif = file.read().strip()
-else:
-    last_gif = None
+# Выбор случайной гифки
+random_gif = random.choice(gif_list)
 
-# Выбор новой гифки, отличной от предыдущей
-chosen_gif = random.choice(gifs)
-while chosen_gif == last_gif and len(gifs) > 1:
-    chosen_gif = random.choice(gifs)
+# Формирование ссылки на гифку
+gif_link = f"![Random GIF]({random_gif})"
 
-with open(last_gif_file, 'w') as file:
-    file.write(chosen_gif)
-# Создание содержимого README.md
-readme_content = f"""
-# Привет!
-
-Добро пожаловать в мой профиль! Вот случайное видео для вас:
-
-![Видео]({chosen_gif})
-"""
-
-# Запись содержимого в README.md
-with open('README.md', 'w') as file:
-    file.write(readme_content)
+# Обновление файла README
+with open("README.md", "r+") as readme_file:
+    lines = readme_file.readlines()
+    for i, line in enumerate(lines):
+        if "![Random GIF]" in line:
+            lines[i] = gif_link + "\n"
+            break
+    else:
+        lines.append("\n" + gif_link + "\n")
+    readme_file.seek(0)
+    readme_file.writelines(lines)
+    readme_file.truncate()

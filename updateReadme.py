@@ -3,7 +3,7 @@ import random
 # Список гифок
 gif_list = [
     "gif/test.gif",
-    "test2.gif"
+    "gif/test2.gif"
 ]
 
 # Выбор случайной гифки

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Video</title>
+</head>
+<body>
+    <video id="random-video" width="640" height="480" controls>
+        Your browser does not support the video tag.
+    </video>
+    <script>
+        // Список видео
+        const videos = [
+            'video/pinterestdownloader.com-1717659520.295921.mp4',
+            'video/pinterestdownloader.com-1717659547.902296.mp4',
+            'video/pinterestdownloader.com-1717659575.377558.mp4',
+            // Добавьте сюда остальные видео
+        ];
+
+        // Выбор случайного видео
+        const randomVideo = videos[Math.floor(Math.random() * videos.length)];
+
+        // Установка источника для видео
+        document.getElementById('random-video').src = randomVideo;
+    </script>
+</body>
+</html>

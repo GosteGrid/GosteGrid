@@ -1,7 +1,7 @@
 import os
 
 # Путь к папке с гифками
-gif_folder = "gif"
+gif_folder = "path/to/gif/folder"
 
 # Список гифок в нужном порядке
 gif_list = [
@@ -9,36 +9,21 @@ gif_list = [
     "test2.gif"
 ]
 
-# Путь к файлу, в котором хранится индекс последней использованной гифки
-index_file = "last_gif_file.txt"
+# Путь к файлу README
+readme_file_path = "README.md"
 
-# Чтение индекса последней использованной гифки из файла
-if os.path.exists(index_file):
-    with open(index_file, "r") as file:
-        last_index = int(file.read().strip())
-else:
-    last_index = -1
+# Чтение текущей гифки из файла README
+with open(readme_file_path, "r") as readme_file:
+    readme_content = readme_file.read()
+    current_gif_index = (gif_list.index(readme_content.split("](")[1].split("/")[1]) + 1) if gif_list[-1] not in readme_content else 0
 
 # Выбор следующей гифки по порядку
-next_index = (last_index + 1) % len(gif_list)
+next_index = current_gif_index % len(gif_list)
 next_gif = gif_list[next_index]
-
-# Сохранение индекса последней использованной гифки в файл
-with open(index_file, "w") as file:
-    file.write(str(next_index))
 
 # Формирование ссылки на гифку
 gif_link = f"![Random GIF]({gif_folder}/{next_gif})"
 
 # Обновление файла README
-with open("README.md", "r+") as readme_file:
-    lines = readme_file.readlines()
-    for i, line in enumerate(lines):
-        if "![Random GIF]" in line:
-            lines[i] = gif_link + "\n"
-            break
-    else:
-        lines.append("\n" + gif_link + "\n")
-    readme_file.seek(0)
-    readme_file.writelines(lines)
-    readme_file.truncate()
+with open(readme_file_path, "w") as readme_file:
+    readme_file.write(gif_link)

@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # random Video
-[Watch a random video](test.html)
+[Watch a random video](https://GosteGrid.github.io/GosteGrid/test.html)
 
 <!--
 **GosteGrid/GosteGrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

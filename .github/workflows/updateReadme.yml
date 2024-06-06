@@ -2,7 +2,7 @@ name: Update README with random video
 
 on:
   schedule:
-    - cron: '*/2 * * * *'  # Запускать ежедневно в полночь
+    - cron: '37 13 * * *'  # Запускать ежедневно в полночь
   push:
     branches:
       - main

@@ -1,32 +1,19 @@
-name: Update README with random video
-
+name: Update README with Random GIF
 on:
   schedule:
-    - cron: '*/2 * * * *'  # Запускать ежедневно в полночь
-  workflow_dispatch: # Ручной запуск workflow
+    - cron: '*/2 * * * *' # Запуск каждые 5 минут
 
 jobs:
-  update-readme:
+  update_readme:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-
-    - name: Update README
-      run: python updateReadme.py
-
-    - name: Commit and push changes
-      run: |
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
-        git add README.md
-        git commit -m 'Update README with random video'
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install requests # Если требуется
+      - name: Update README
+        run: python update_readme.py

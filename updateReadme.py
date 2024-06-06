@@ -1,7 +1,7 @@
 import os
 
 # Путь к папке с гифками
-gif_folder = "gif"
+gif_folder = "path/to/gif/folder"
 
 # Список гифок в нужном порядке
 gif_list = [
@@ -9,15 +9,23 @@ gif_list = [
     "test2.gif"
 ]
 
-# Название последней использованной гифки
-last_gif = "test2.gif"
+# Путь к файлу, в котором хранится индекс последней использованной гифки
+index_file = "last_gif_file.txt"
 
-# Поиск индекса последней использованной гифки в списке
-last_index = gif_list.index(last_gif)
+# Чтение индекса последней использованной гифки из файла
+if os.path.exists(index_file):
+    with open(index_file, "r") as file:
+        last_index = int(file.read().strip())
+else:
+    last_index = -1
 
 # Выбор следующей гифки по порядку
 next_index = (last_index + 1) % len(gif_list)
 next_gif = gif_list[next_index]
+
+# Сохранение индекса последней использованной гифки в файл
+with open(index_file, "w") as file:
+    file.write(str(next_index))
 
 # Формирование ссылки на гифку
 gif_link = f"![Random GIF]({gif_folder}/{next_gif})"

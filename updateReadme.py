@@ -1,17 +1,16 @@
 import random
 
 # Получение списка видео файлов
-videos = [
-    "video/pinterestdownloader.com-1717659520.295921.mp4",
-    "video/pinterestdownloader.com-1717659547.902296.mp4",
-    "video/pinterestdownloader.com-1717659575.377558.mp4"
+gifs = [
+    "gif/first.gif",
+    "gif/second.gif"
 ]
 
 # Выбор случайного видео
-chosen_video = random.choice(videos)
+chosen_gif = random.choice(gifs)
 
 # Формирование URL видео для отображения в README
-video_url = f'https://raw.githubusercontent.com/GosteGrid/GosteGride/main/video/{chosen_video}'
+gifs_url = f'https://raw.githubusercontent.com/GosteGrid/GosteGride/main/gif/{chosen_gif}'
 
 # Создание содержимого README.md
 readme_content = f"""
@@ -19,7 +18,7 @@ readme_content = f"""
 
 Добро пожаловать в мой профиль! Вот случайное видео для вас:
 
-![Видео]({video_url})
+![Видео]({gifs_url})
 """
 
 # Запись содержимого в README.md

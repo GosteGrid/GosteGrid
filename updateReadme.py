@@ -2,7 +2,7 @@ import os
 import random
 
 # Путь к папке с видео
-videos_dir = 'video'
+videos_dir = 'video/'
 
 # Получение списка видео файлов
 videos = [f for f in os.listdir(videos_dir) if os.path.isfile(os.path.join(videos_dir, f))]

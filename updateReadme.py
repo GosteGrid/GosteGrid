@@ -2,8 +2,7 @@ import random
 
 # Получение списка видео файлов
 gifs = [
-    "gif/first.gif",
-    "gif/second.gif"
+    "gif/test.gif"
 ]
 
 # Выбор случайного видео
@@ -15,7 +14,7 @@ readme_content = f"""
 
 Добро пожаловать в мой профиль! Вот случайное видео для вас:
 
-![Видео](gif/{chosen_gif})
+![Видео](gif/test.gif)
 """
 
 # Запись содержимого в README.md

@@ -7,7 +7,7 @@ gif_folder = "gif"
 gif_list = [
     "test.gif",
     "test2.gif", 
-    "test3.gif",
+    "test3.gif"
 ]
 
 # Путь к файлу README

@@ -3,7 +3,7 @@ import random
 # Получение списка видео файлов
 gifs = [
     "gif/test.gif", 
-    "0420-ezgif.com-video-to-gif-converter.gif"
+    "gif/test2.gif"
 ]
 
 # Выбор случайного видео

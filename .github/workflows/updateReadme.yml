@@ -24,7 +24,7 @@ jobs:
           # Установите дополнительные зависимости, если они необходимы
 
       - name: Run update script
-        run: python update_readme.py  # Запускает ваш скрипт обновления
+        run: python updateReadme.py  # Запускает ваш скрипт обновления
 
       - name: Commit and push changes
         run: |

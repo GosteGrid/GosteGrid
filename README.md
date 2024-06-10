@@ -5,4 +5,4 @@ I am a 1st year student receiving a bachelor's degree in software engineering at
 
 Добро пожаловать в мой профиль! Вот случайная гифка для вас:
 
-![Гифка](gif/test3.gif)
+![Гифка](gif/test.gif)

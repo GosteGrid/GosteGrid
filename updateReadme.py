@@ -45,7 +45,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 </div>
 
 <div align="center">
-    <h2>Technology Stack <img src="./pedro.gif" alt="Pedro" width="32" /> </h2> 
+    <h2>Technology Stack <img src="./pedro.gif" alt="Pedro" width="24" /> </h2> 
     <img src="">
 </div>
 

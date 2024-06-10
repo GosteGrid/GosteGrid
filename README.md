@@ -6,12 +6,11 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 
 </div>
 
-<h2 align="center">Technology Stack <img src="./pedro.gif" alt="Pedro" width="32 /> </h2> 
-
 <div align="center">
+    <h2>Technology Stack <img src="./pedro.gif" alt="Pedro" width="32 /> </h2> 
     <img src="">
 </div>
 
 Добро пожаловать в мой профиль! Вот случайная гифка для вас:
 
-![Гифка](gif/test.gif)
+![Гифка](gif/test2.gif)

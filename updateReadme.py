@@ -38,7 +38,7 @@ next_gif = gifs[next_gif_index]
 # Формирование содержимого README.md с новой гифкой
 readme_content = f"""
 ![Гифка](video_2024-06-08_23-36-04.gif)
-<div align="center" style="front-size: 60px;">
+<div align="center">
 
 I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at the Polytechnic University 👨‍🎓. I enjoy working with different technologies and exploring various fields, as well as learning new things 👾. Currently, I'm developing simple programs and implementing various data structures, which helps me understand their inner workings and principles of operation 💻.
 

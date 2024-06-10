@@ -7,9 +7,9 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 </div>
 
 <div align="center">
-    <h2>Technology Stack</h2> ![pedroRaccoon](pedro.gif)
+    <h2>Technology Stack ![Гифка](pedro.gif)</h2> 
     <img src="">
 </div>
 Добро пожаловать в мой профиль! Вот случайная гифка для вас:
 
-![Гифка](gif/test3.gif)
+![Гифка](gif/test.gif)

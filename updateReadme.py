@@ -46,9 +46,9 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 
 <div align="center">
     <h2>Technology Stack <img src="./pedro.gif" alt="Pedro" width="24" /> </h2> 
-    <img src="stack/cpp.png" alt="C++">
-    <img src="stack/py.png" alt="Python">
-    <img src="stack/git.png" alt="Git">
+    <img src="stack/cpp.png" alt="C++" width="20">
+    <img src="stack/py.png" alt="Python" width="20">
+    <img src="stack/git.png" alt="Git" width="20">
 </div>
 
 Добро пожаловать в мой профиль! Вот случайная гифка для вас:

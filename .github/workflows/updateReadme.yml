@@ -2,7 +2,7 @@ name: Update README with random GIF
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Запускать каждые 4 часа
+    - cron: '0 */12 * * *'  # Запускать каждые 4 часа
   workflow_dispatch:
 
 jobs:

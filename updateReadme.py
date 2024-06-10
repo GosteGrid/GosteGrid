@@ -45,7 +45,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 </div>
 
 <div align="center">
-    <h2>Technology Stack</h2>
+    <h2>Technology Stack[![pedroRaccoon](https://cdn3.emoji.gg/emojis/9613-pedroraccoon.gif)](https://emoji.gg/emoji/9613-pedroraccoon)</h2>
     <img src="">
 </div>
 Добро пожаловать в мой профиль! Вот случайная гифка для вас:

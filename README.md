@@ -12,4 +12,5 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
-![Гифка](gif/test2.gif)
+
+![Гифка](gif/test3.gif)

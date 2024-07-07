@@ -7,10 +7,10 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 </div>
 
 <div align="center">
-    <h2><img src="./pedro.gif" alt="Pedro" width="24">Technology Stack<img src="./pedro.gif" alt="Pedro" width="24"> </h2> 
+    <h2><img src="./pedro.gif" alt="Pedro" width="24">            Technology Stack            <img src="./pedro.gif" alt="Pedro" width="24"> </h2> 
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
-![Гифка](gif/test3.gif)
+![Гифка](gif/test.gif)

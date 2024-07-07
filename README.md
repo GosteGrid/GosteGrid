@@ -16,7 +16,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 
 
 <div align="center">
-    <h2><img src="./redman.gif" alt="Redman" width="24"> My GitHub Stats <img src="./redman.gif" alt="Redman" width="24"></h2>
+    <h2><img src="./redman.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redman.gif" alt="Redman" width="32"></h2>
 </div>
 
-![Гифка](gif/test3.gif)
+![Гифка](gif/test.gif)

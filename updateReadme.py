@@ -54,7 +54,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 
 
 <div align="center">
-    <h2> My GitHub Stats </h2>
+    <h2><img src="./redman.gif" alt="Redman" width="24"> My GitHub Stats <img src="./redman.gif" alt="Redman" width="24"></h2>
 </div>
 
 ![Гифка](gif/{next_gif})

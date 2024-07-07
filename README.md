@@ -12,12 +12,11 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
-![Гифка](gif/test3.gif)
 
 
 
 <div align="center">
-    <h2><img src="./img/car2.png" alt="car2" width="64"> Technology Stack <img src="./img/car1.png" alt="car1" width="64"> </h2>
+    <h2><img src="./img/car2.png" alt="car2" width="52"> Technology Stack <img src="./img/car1.png" alt="car1" width="52"> </h2>
 </div>
 
-![Гифка](gif/test3.gif)
+![Гифка](gif/test.gif)

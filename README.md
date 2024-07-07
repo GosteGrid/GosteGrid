@@ -16,7 +16,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 
 
 <div align="center">
-    <h2><img src="./img/car2.png" alt="car2" width="52"> Technology Stack <img src="./img/car1.png" alt="car1" width="52"> </h2>
+    <h2> My GitHub Stats </h2>
 </div>
 
-![Гифка](gif/test.gif)
+![Гифка](gif/test2.gif)

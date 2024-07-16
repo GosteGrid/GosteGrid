@@ -19,4 +19,4 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
 </div>
 
-![Гифка](gif/test3.gif)
+![Гифка](gif/test.gif)

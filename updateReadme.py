@@ -49,6 +49,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <img src="./maket1.png" alt="C++" width="100">
     <img src="./maket2.png" alt="Python" width="100">
     <img src="./maket3.png" alt="Git" width="100">
+    <img src="gif/{next_gif}" alt="Gif">
 </div>
 
 
@@ -57,7 +58,6 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
 </div>
 
-![Гифка](gif/{next_gif})
 """
 
 # Запись содержимого в README.md

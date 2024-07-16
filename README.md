@@ -8,7 +8,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 
 <div align="center">
     <h2><img src="./pedro.gif" alt="Pedro" width="28"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="28"> </h2> 
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="./maket1.png" alt="C++" width="28">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
@@ -19,4 +19,4 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
 </div>
 
-![Гифка](gif/test2.gif)
+![Гифка](gif/test3.gif)

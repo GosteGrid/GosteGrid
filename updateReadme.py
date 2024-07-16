@@ -47,7 +47,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 <div align="center">
     <h2><img src="./pedro.gif" alt="Pedro" width="28"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="28"> </h2> 
     <img src="./maket1.png" alt="C++" width="100">
-    <img src="./maket1.png" alt="Python" width="100">
+    <img src="./maket2.png" alt="Python" width="100">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 

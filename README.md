@@ -20,5 +20,5 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true&theme=tokyonight&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true&theme=highcontrast&bg_color=00000000#gh-light-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true&theme=dracula&bg_color=00000000#gh-light-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)
 

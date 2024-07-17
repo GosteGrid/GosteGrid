@@ -13,11 +13,11 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <img src="./maket3.png" alt="Git" width="100">
 </div>
 
-<a href="javascript:void(0)"> <br> ![Гифка](gif/test.gif) </a>
+<a href="javascript:void(0)"> <br> ![Гифка](gif/test2.gif) </a>
 
 <div align="center">
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid)](https://github.com/GosteGrid/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true)](https://github.com/GosteGrid/github-readme-stats)
 

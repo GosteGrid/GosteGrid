@@ -1,7 +1,5 @@
 import os
 import json
-import requests
-import matplotlib.pyplot as plt
 
 # Путь к папке с гифками
 gif_dir = 'gif'
@@ -57,50 +55,9 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 
 <div align="center">
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
-
-    
-
-    # Введите ваше имя пользователя GitHub
-    username = 'GosteGrid'
-
-    # Получение данных о репозиториях
-    repos_url = f'https://api.github.com/users/{username}/repos'
-    repos_data = requests.get(repos_url).json()
-
-    # Подсчет количества звезд
-    stars = sum([repo['stargazers_count'] for repo in repos_data])
-
-    # Для подсчета коммитов, PR и проблем потребуется дополнительный запрос к API для каждого репозитория
-    commits = 0
-    prs = 0
-    issues = 0
-
-    for repo in repos_data:
-    # Получение данных о коммитах
-    commits_url = f"https://api.github.com/repos/{username}/{repo['name']}/commits"
-    commits_data = requests.get(commits_url).json()
-    commits += len(commits_data)
-    
-    # Получение данных о PR
-    prs_url = f"https://api.github.com/repos/{username}/{repo['name']}/pulls?state=all"
-    prs_data = requests.get(prs_url).json()
-    prs += len(prs_data)
-    
-    # Получение данных о проблемах
-    issues_url = f"https://api.github.com/repos/{username}/{repo['name']}/issues?state=all"
-    issues_data = requests.get(issues_url).json()
-    issues += len(issues_data)
-
-    # Пример простого графика
-    labels = ['Stars', 'Commits', 'PRs', 'Issues']
-    sizes = [stars, commits, prs, issues]
-
-    fig, ax = plt.subplots()
-    ax.pie(sizes, labels=labels, autopct='%1.1f%%')
-    ax.axis('equal')  # Равные оси для кругового графика
-
-    plt.savefig('maket1.png')
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid)](https://github.com/GosteGrid/github-readme-stats)
 
 """
 

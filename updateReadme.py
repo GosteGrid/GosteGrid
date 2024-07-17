@@ -55,8 +55,9 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 
 <div align="center">
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid)](https://github.com/GosteGrid/github-readme-stats)
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid)](https://github.com/GosteGrid/github-readme-stats)
 
 """
 

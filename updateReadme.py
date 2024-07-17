@@ -57,7 +57,8 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true&theme=tokyonight)](https://github.com/GosteGrid/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)
 
 """
 

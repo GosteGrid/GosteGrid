@@ -13,12 +13,12 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <img src="./maket3.png" alt="Git" width="100">
 </div>
 
-<a href="javascript:void(0)"> <br> ![Гифка](gif/test3.gif) </a>
+<a href="javascript:void(0)"> <br> ![Гифка](gif/test.gif) </a>
 
 <div align="center">
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true&theme=tokyonight#gh-dark-mode-only&bg_color=00000000)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true&theme=radical#gh-light-mode-only&bg_color=00000000)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true&theme=tokyonight#gh-dark-mode-only&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show_icons=true&theme=radical#gh-light-mode-only&bg_color=00000000#gh-light-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)
 

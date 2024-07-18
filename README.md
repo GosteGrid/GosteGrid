@@ -13,7 +13,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <img src="./maket3.png" alt="Git" width="100">
 </div>
 
-<a href="javascript:void(0)"> <br> ![Гифка](gif/test.gif) </a>
+<a href="javascript:void(0)"> <br> ![Гифка](gif/test2.gif) </a>
 
 <div align="center">
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
@@ -24,3 +24,4 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=outrun#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=swift&bg_color=00000000#gh-light-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)
+

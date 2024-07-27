@@ -24,6 +24,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=midnight-purple&bg_color=00000000#gh-dark-mode-only">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=graywhite&bg_color=00000000#gh-light-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=default" alt="Anurag's GitHub stats">
     </picture>
   </a>
 </div>
@@ -33,6 +34,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=midnight-purple&bg_color=00000000#gh-dark-mode-only">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=graywhite&bg_color=00000000#gh-light-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=default" alt="Anurag's GitHub stats">
     </picture>
   </a>
 </div>

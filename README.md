@@ -7,6 +7,37 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 </h3>
 
 <div align="center">
+  <!-- Заголовок для мобильных устройств -->
+  <h2 class="mobile-title">
+    <img src="./pedro.gif" alt="Pedro" width="28"> Mobile Technology Stack <img src="./pedro.gif" alt="Pedro" width="28">
+  </h1>
+  <!-- Заголовок для настольных компьютеров -->
+  <h1 class="desktop-title">
+    <img src="./pedro.gif" alt="Pedro" width="32"> Desktop Technology Stack <img src="./pedro.gif" alt="Pedro" width="32">
+  </h1>
+</div>
+<style>
+  /* По умолчанию скрываем оба заголовка */
+  .mobile-title, .desktop-title {
+    display: none;
+  }
+
+  /* Показываем заголовок для мобильных устройств */
+  @media (max-width: 767px) {
+    .mobile-title {
+      display: block;
+    }
+  }
+  /* Показываем заголовок для настольных компьютеров */
+  @media (min-width: 768px) {
+    .desktop-title {
+      display: block;
+    }
+  }
+</style>
+
+
+<div align="center">
     <h1><img src="./pedro.gif" alt="Pedro" width="32"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="32"> </h1> 
     <img src="./maket1.png" alt="C++" width="100">
     <img src="./maket2.png" alt="Python" width="100">

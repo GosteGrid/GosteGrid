@@ -43,7 +43,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
   <a href="https://git.io/streak-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=GosteGrid&theme=midnight-purple&background=00000000&hide_border=00000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?username=GosteGrid&theme=graywhite&background=00000000&hide_border=000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?username=GosteGrid&background=00000000&hide_border=000000&theme=graywhite">
       <img src="https://streak-stats.demolab.com/?username=GosteGrid&theme=default" alt="GitHub Streak">
     </picture>
   </a>

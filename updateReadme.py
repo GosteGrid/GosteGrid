@@ -57,7 +57,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=outrun&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=aura&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=swift&bg_color=00000000#gh-light-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)
 &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=outrun&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)

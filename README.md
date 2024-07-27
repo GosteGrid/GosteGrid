@@ -49,3 +49,4 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
   </a>
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GosteGrid&theme=midnight-purple&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&%D1%84%D0%BE%D0%BD=00000000" alt="GitHub Streak" /></a>

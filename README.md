@@ -19,8 +19,15 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <h1><img src="./redMan.gif" alt="Redman" width="36"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="36"></h1>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=midnight-purple&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=graywhite&bg_color=00000000#gh-light-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)
+<div align="center">
+  <a href="https://github.com/GosteGrid/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=midnight-purple&bg_color=00000000#gh-dark-mode-only">
+      <source media="(prefers-color-scheme: light)" srcset="(https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=graywhite&bg_color=00000000#gh-light-mode-only)">
+      <img src="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=default" alt="Anurag's GitHub stats">
+    </picture>
+  </a>
+</div>
 &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=midnight-purple&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=graywhite&bg_color=00000000#gh-light-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)

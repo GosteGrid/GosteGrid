@@ -57,10 +57,10 @@ readme_content = f"""
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=one_dark_pro&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=midnight-purple&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=graywhite&bg_color=00000000#gh-light-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)
 &nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=one_dark_pro&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=midnight-purple&bg_color=00000000#gh-dark-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=graywhite&bg_color=00000000#gh-light-mode-only)](https://github.com/GosteGrid/github-readme-stats#gh-light-mode-only)
 
 """

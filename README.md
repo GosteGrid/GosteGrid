@@ -7,40 +7,23 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 </h3>
 
 <div align="center">
-  <!-- Блок для заголовка на мобильных устройствах -->
-  <div class="mobile-header">
-    <h2>
-      <img src="./pedro.gif" alt="Pedro" width="32"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="32">
-    </h2>
+  <div style="display: none;" id="mobile-text">
+    <h1>Welcome, mobile user!</h1>
   </div>
-
-  <!-- Блок для заголовка на настольных устройствах -->
-  <div class="desktop-header">
-    <h1>
-      <img src="./pedro.gif" alt="Pedro" width="32"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="32">
-    </h1>
+  <div style="display: none;" id="desktop-text">
+    <h1>Welcome, desktop user!</h1>
   </div>
 </div>
 
-<style>
-  .mobile-header {
-    display: none;
+<!-- Инлайн JavaScript для определения типа устройства -->
+<script>
+  // Определяем тип устройства
+  if (window.innerWidth <= 767) {
+    document.getElementById('mobile-text').style.display = 'block';
+  } else {
+    document.getElementById('desktop-text').style.display = 'block';
   }
-
-  .desktop-header {
-    display: block;
-  }
-
-  @media (max-width: 767px) {
-    .mobile-header {
-      display: block;
-    }
-
-    .desktop-header {
-      display: none;
-    }
-  }
-</style>
+</script>
 
 <div align="center">
     <h1><img src="./pedro.gif" alt="Pedro" width="32"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="32"> </h1> 

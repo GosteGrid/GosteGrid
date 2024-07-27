@@ -22,6 +22,26 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
   </div>
 </div>
 
+<style>
+  .mobile-header {
+    display: none;
+  }
+
+  .desktop-header {
+    display: block;
+  }
+
+  @media (max-width: 767px) {
+    .mobile-header {
+      display: block;
+    }
+
+    .desktop-header {
+      display: none;
+    }
+  }
+</style>
+
 <div align="center">
     <h1><img src="./pedro.gif" alt="Pedro" width="32"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="32"> </h1> 
     <img src="./maket1.png" alt="C++" width="100">

@@ -1,13 +1,13 @@
 
 <a href="javascript:void(0)"> ![Гифка](gif/test2.gif) </a>
-<h3 align="center">
+<h4 align="center">
 
 I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at the Polytechnic University 👨‍🎓. I enjoy working with different technologies and exploring various fields, as well as learning new things 👾. Currently, I'm developing simple programs and implementing various data structures, which helps me understand their inner workings and principles of operation 💻.
 
-</h3>
+</h4>
 
 <div align="center">
-    <h1><img src="./pedro.gif" alt="Pedro" width="28"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="28"> </h1> 
+    <h2><img src="./pedro.gif" alt="Pedro" width="28"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="28"> </h2> 
     <img src="./maket1.png" alt="C++" width="100">
     <img src="./maket2.png" alt="Python" width="100">
     <img src="./maket3.png" alt="Git" width="100">
@@ -16,7 +16,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 <a href="javascript:void(0)"> <br> ![Гифка](gif/test2.gif) </a>
 
 <div align="center">
-    <h1><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h1>
+    <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
 </div>
 
 <div align="center">

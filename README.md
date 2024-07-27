@@ -19,8 +19,11 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <h1><img src="./redMan.gif" alt="Redman" width="36"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="36"></h1>
 </div>
 
-<p align="center">
+<p align="center">   
     <img src="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=midnight-purple&bg_color=00000000#gh-dark-mode-only" alt="Anurag's GitHub stats">
+</p>
+
+<p align="center">   
     <img src="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=graywhite&bg_color=00000000#gh-light-mode-only" alt="Anurag's GitHub stats">
 </p>
 

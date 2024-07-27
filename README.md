@@ -38,4 +38,14 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     </picture>
   </a>
 </div>
+&nbsp; &nbsp;
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?username=GosteGrid&theme=midnight-purple&bg_color=00000000#gh-dark-mode-only">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?username=GosteGrid&theme=graywhite&bg_color=00000000#gh-light-mode-only">
+      <img src="https://streak-stats.demolab.com/?username=GosteGrid&theme=default" alt="GitHub Streak">
+    </picture>
+  </a>
+</div>
 

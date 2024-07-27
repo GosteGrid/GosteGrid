@@ -6,14 +6,14 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 
 </div>
 
-<div align="center">
+<div align="center" style="font-size: 20px;">
     <h2><img src="./pedro.gif" alt="Pedro" width="28"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="28"> </h2> 
     <img src="./maket1.png" alt="C++" width="100">
     <img src="./maket2.png" alt="Python" width="100">
     <img src="./maket3.png" alt="Git" width="100">
 </div>
 
-<a href="javascript:void(0)"> <br> ![Гифка](gif/test.gif) </a>
+<a href="javascript:void(0)"> <br> ![Гифка](gif/test2.gif) </a>
 
 <div align="center">
     <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>

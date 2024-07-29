@@ -7,34 +7,21 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
 </h3>
 
 <div align="center">
-    <h1><img src="./pedro.gif" alt="Pedro" width="32"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="32"> </h1> 
+    <h2><img src="./pedro.gif" alt="Pedro" width="28"> Technology Stack <img src="./pedro.gif" alt="Pedro" width="28"> </h2> 
     <img src="./maket1.png" alt="C++" width="100">
     <img src="./maket2.png" alt="Python" width="100">
     <img src="./maket3.png" alt="Git" width="100">
 </div>
-
-<a href="javascript:void(0)"> <br> ![Гифка](gif/test3.gif) </a>
-
+<a href="javascript:void(0)"> <br> ![Гифка](gif/test2.gif) </a>
 <div align="center">
-    <h1><img src="./redMan.gif" alt="Redman" width="36"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="36"></h1>
+    <h2><img src="./redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./redMan.gif" alt="Redman" width="32"></h2>
 </div>
-
 <div align="center">
   <a href="https://github.com/GosteGrid/github-readme-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=midnight-purple&include_all_commits=true&bg_color=00000000#gh-dark-mode-only">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&include_all_commits=true&theme=graywhite&bg_color=00000000#gh-light-mode-only">
       <img src="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=default&include_all_commits=true" alt="Anurag's GitHub stats">
-    </picture>
-  </a>
-</div>
-&nbsp; &nbsp;
-<div align="center">
-  <a href="https://github.com/GosteGrid/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=midnight-purple&bg_color=00000000#gh-dark-mode-only">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GosteGrid&layout=donut&theme=graywhite&bg_color=00000000#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api?username=GosteGrid&show=reviews&show_icons=true&theme=default" alt="Anurag's GitHub stats">
     </picture>
   </a>
 </div>
